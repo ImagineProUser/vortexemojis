@@ -1,8 +1,8 @@
 local Mods = {
 	2930034036, -- Imagine's Alt
 	1113229296, -- Bell
-    115212382, -- Corey
-    469000927, -- Ari
+        115212382, -- Corey
+        469000927, -- Ari
 }
 
 local plrs = game:GetService("Players")
